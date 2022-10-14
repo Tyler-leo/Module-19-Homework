@@ -141,4 +141,8 @@ Take a screenshot of the recipient’s address balance and history from your Gan
 
 ## Overall Streamlit App
 
-![](images/Initial%20overall%20view%20of%20Streamlit.png)
+![](Images/Initial%20overall%20view%20of%20Streamlit.png)
+
+## Overall Ganache account
+
+![](Images/Overall%20Ganache.png)
