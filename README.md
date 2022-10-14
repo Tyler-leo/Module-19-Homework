@@ -145,4 +145,8 @@ Take a screenshot of the recipient’s address balance and history from your Gan
 
 ## Overall Ganache account
 
-![](Images/Overall%20Ganache.png)
+![](Images/Overall%20Ganache%20.png)
+
+## Ganache Transaction 
+
+![](Images/Ganache%20Transaction.png)
